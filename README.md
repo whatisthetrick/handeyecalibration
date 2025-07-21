@@ -1,6 +1,6 @@
 # handeyecalibration
 hand-eye calibration based on KUKA and MechMind
-基于KUKA机器人和梅卡曼德相机做的手眼标定
+基于KUKA机器人和梅卡曼德相机做的手眼标定（眼在手上）
 步骤：
 1、相机内参标定（cameracalibration.cpp）
   （1）需要注意的是，kuka机器人欧拉角为ZYX顺序，机器人位姿为（X,Y,Z,A,B,C）；
